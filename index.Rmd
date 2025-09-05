@@ -1,6 +1,6 @@
 ---
 title: "Lab journal"
-author: "by: Your Name"
+author: "by: Ashwin Rambaran"
 bibliography: references.bib
 
  
