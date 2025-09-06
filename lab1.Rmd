@@ -37,3 +37,7 @@ This is just an example page of your `r colorize("lab journal", "red")`. You can
 ```{r}
 print("Hello World")
 ```
+```{r}
+model1 <- lm()
+```
+
